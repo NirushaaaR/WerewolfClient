@@ -1,4 +1,4 @@
-/* 
+g/* 
  * Werewolf Engine
  *
  * This is a werewolf game engine for REST access. It is primarily developed for CPE200 class at Computer Engineering, Chiang Mai University.

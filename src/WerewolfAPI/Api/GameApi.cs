@@ -393,6 +393,7 @@ namespace WerewolfAPI.Api
         /// <returns>Game</returns>
         public Action GameActionSessionIDActionIDTargetIDPost (string sessionID, long? actionID, long? targetID)
         {
+            
              ApiResponse<Action> localVarResponse = GameActionSessionIDActionIDTargetIDPostWithHttpInfo(sessionID, actionID, targetID);
              return localVarResponse.Data;
         }
